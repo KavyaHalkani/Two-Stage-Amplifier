@@ -1,0 +1,5 @@
+Design of 7 pack Amplifier
+
+The design of two stage op-amp consists of differential amplifier at input stage, current mirror ,CS stage with high gain biased by output of differential stage. 
+The amplifier is designed to achieve the gain of 60dB,Gain Bandwidth of 30MHz with power consumption of less than 300uW.The design is carried out in Cadence Virtuoso 
+180nm technology.
